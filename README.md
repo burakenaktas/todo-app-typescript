@@ -1,6 +1,6 @@
 This is the entire app:
 
-![52fc7f0c-a6f9-4bc3-b094-361814527696](https://user-images.githubusercontent.com/86871383/163360985-97fae5c6-d9c9-4ee5-b107-edc5d1ef116c.jpg width=100)
+<img src="https://user-images.githubusercontent.com/86871383/163360985-97fae5c6-d9c9-4ee5-b107-edc5d1ef116c.jpg" width=100 />
 
 If you click one of the trash buttons:
 
